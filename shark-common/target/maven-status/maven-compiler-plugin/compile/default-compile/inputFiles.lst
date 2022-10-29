@@ -1,0 +1,13 @@
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/config/SharkConf.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/translate/TransApi.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/BlackSharkApplication.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/translate/MD5.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/bean/BlackShark.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/translate/HttpGet.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/bean/TransResponse.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/utils/SharkUtils.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/bean/ResponseVO.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/bean/StatusEnum.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/utils/SpringContextUtil.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/bean/TransResult.java
+/Users/gao/work/idea_workspace/blackshark/shark-common/src/main/java/cn/cw/blackshark/controller/TranslateController.java
