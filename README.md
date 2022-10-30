@@ -16,4 +16,4 @@ security.key=xxxxx
 ```
 
 ## 贡献词库
-blackshark/shark-common/src/main/resources/shark.dic
+https://github.com/gweichang/blackshark/blob/main/shark-common/src/main/resources/shark.dic
